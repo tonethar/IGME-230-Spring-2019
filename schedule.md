@@ -1,23 +1,22 @@
 
-# IGME-230 Web Design & Implementation, Fall 2018: Schedule of Topics 
+# IGME-230 Web Design & Implementation, Tentative Schedule of Topics 
 
 ## Contents
 
-- [Week 01 (Aug 27) : Course Intro & FTP/banjo/.htaccess files](#week1)
-- [Week 02 (Sep 03) : Intro to Server-side programming (PHP)](#week2)
-- [Week 03 (Sep 10) : Review of Basic HTML/CSS](#week3)
-- [Week 04 (Sep 17) : More CSS/Complex Selectors & Responsive Design](#week4)
-- [Week 05 (Sep 24) : Navigation Systems & Visual Design](#week5)
-- [Week 06 (Oct 01) : CSS Flexbox & CSS Wrap-up](#week6)
-- [Week 07 (Oct 08) : Intro to Client-side Programming & October Break](#week7)
-- [Week 08 (Oct 15) : More DOM/JavaScript & Midterm Exam](#week8)
-- [Week 09 (Oct 22) : Events, Objects, Web Storage & Web Services](#week9)
-- [Week 10 (Oct 29) : HTML Frameworks & Portfolios](#week10)
-- [Week 11 (Nov 05) : Catch up](#week11)
-- [Week 12 (Nov 12) : Intro to PixiJS](#week12)
-- [Week 13 (Nov 19) : More PixiJS & Thanksgiving Holiday](#week13)
-- [Week 14 (Nov 26) : PixiJS Wrap up](#week14)
-- [Week 15 (Dec 03) : Review & Final Exam](#week15)
+- [Week 01: Course Intro & FTP/banjo/.htaccess files](#week1)
+- [Week 02: Intro to Server-side programming (PHP)](#week2)
+- [Week 03: Review of Basic HTML/CSS](#week3)
+- [Week 04: More CSS/Complex Selectors & Responsive Design](#week4)
+- [Week 05: Navigation Systems & Visual Design](#week5)
+- [Week 06: CSS Flexbox & CSS Wrap-up](#week6)
+- [Week 07: Intro to Client-side Programming & October Break](#week7)
+- [Week 08: More DOM/JavaScript & Midterm Exam](#week8)
+- [Week 09: Events, Objects, Web Storage & Web Services](#week9)
+- [Week 10: HTML Frameworks & Portfolios](#week10)
+- [Week 11: Intro to PixiJS](#week11)
+- [Week 12: More PixiJS & Thanksgiving Holiday](#week12)
+- [Week 13: PixiJS Wrap up](#week13)
+- [Week 14: Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
 
 
@@ -76,22 +75,20 @@ The midterm exam will given the last class meeting of week 8
   - [Week 10A - Frameworks and Libraries](weekly/week-10A-notes.md)
   - [Week 10B - Portfolios](weekly/week-10B-notes.md)
   
-## <a id="week11">Week 11  : Catch up
+## <a id="week11">Week 11  : Intro to PixiJS
+  - [Week 11 - Intro to PixiJS](weekly/week-11-notes.md)
   
-## <a id="week12">Week 12  : Intro to PixiJS
-  - [Week 12 - Intro to PixiJS](weekly/week-11-notes.md)
+## <a id="week12">Week 12 : More PixiJS
   
-## <a id="week13">Week 13 : More PixiJS
+ - [Week 12 - More PixiJS](weekly/week-12-notes.md)
   
- - [Week 13 - More PixiJS](weekly/week-12-notes.md)
-  
-## <a id="week14">Week 14 : PixiJS Wrap up
+## <a id="week13">Week 13 : PixiJS Wrap up
  
- - [Week 14 - Wrap up PixiJS](weekly/week-13-notes.md)
+ - [Week 13 - Wrap up PixiJS](weekly/week-13-notes.md)
  
- ## <a id="week15">Week 15 : The Home Stretch
+ ## <a id="week14">Week 14 : The Home Stretch
   
- - [Week 15 - The Home Stretch](weekly/week-notes-home-stretch.md)
+ - [Week 14 - The Home Stretch](weekly/week-notes-home-stretch.md)
   
 ## <a id="finalsweek">Finals Week Meeting
 
