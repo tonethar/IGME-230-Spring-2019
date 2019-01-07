@@ -1,4 +1,4 @@
-# IGME-230 Web Site Design & Implementation, Fall 2018: Syllabus
+# IGME-230 Web Site Design & Implementation, Spring 2019: Syllabus
 
 ## Course Catalog Description 
 *This course provides an introduction to web development tools and technologies, such as X/HTML, CSS, Javascript and DHTML, AJAX, web platforms and environments, and server-side programming methods.*
@@ -8,33 +8,17 @@
 
 **Important: These sections are reserved for GDD and NMID students ONLY**
 
-## Instructor and Class Details (Section 01)
-- Professor: Dower Chin  
-- Teaching Assistant: Sean Lightfoot
-- Office: See myCourses
-- Email: dxcigm@rit.edu
-- Office hours: After class / email
-- Class meetings: TR 6:30PM - 7:45PM in GOL-2570
-
-## Instructor and Class Details (Sections 03,04,05)
-- Professor: Andrew Wheeland 
-- Teaching Assistants: Lucas Nichols (03 & 05), Sam Sorensen (04)
+## Instructor and Class Details
+- Professor: Andrew Wheeland  
+- Teaching Assistant: Matt Tiffin
 - Office: GOL-2521
-- Email: andrew.wheeland@rit.edu
-- Office hours: MW 3:00PM - 5:00PM in GOL-2521  ** Updated **
+- Email: anwigm@rit.edu
+- Office hours: TBD
 - Class meetings:
   - Section 03 - MWF 11:00AM - 11:50AM in GOL-2025
   - Section 04 - MW 5:00PM - 6:15PM in GOL-2570
   - Section 05 - TR 11:00AM - 12:15PM in GOL-2435
-
-## Instructor and Class Details (Section 06)
-- Professor: Sean Boyle  
-- Teaching Assistant: Nick Mercadante
-- Office: GOL-2517
-- Email: sean.boyle@rit.edu
-- Office hours: MWF 11:00-2:00
-- Class meetings: MWF 2:00PM - 2:50PM in ORN-1375
-
+  
 ## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
 
@@ -92,8 +76,8 @@ The course policy on academic dishonesty is simple: If you get caught cheating o
 [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html)
 
 ## Important RIT Deadlines
-- Last day of add/drop is Tuesday September 4th, 2018.
-- Last day to withdraw with a grade of "W" is Friday November 9th, 2018.
+- Last day of add/drop is Tuesday, January 22nd, 2019.
+- Last day to withdraw with a grade of "W" is Friday, April 5th, 2019.
 - You have one semester after the class has ended to challenge your grade. 
 
 ## Notices of Accommodation
