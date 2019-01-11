@@ -45,28 +45,25 @@ Final course grades are determined using the following scale:
 | <65%	| F |
 
 ### Projects (50%)
-* Project 1 (10%) - [Game Proposal Site](projects/project-1.md)
-* Project 2 (10%) - [Web Service Application](projects/project-2.md)
-* Project 3 (10%) - [Web Portfolio](projects/project-3.md)
-* Project 4 (20%) - [Interactive Game or Experience](projects/project-4.md)
+* Project 1 (15%) - [Game Proposal Site](projects/project-1.md)
+* Project 2 (15%) - [Web Service Application](projects/project-2.md)
+* Project 3 (20%) - [Interactive Game or Experience](projects/project-4.md)
 
 
-### Exams (30%)
+### Exams (25%)
 These exams consist of short answer, multiple choice, and "write some code" questions. There will be no make-ups or re-takes allowed without prior permission.
 * Written Midterm Exam  - will be given during the 8th week of the semester
 * Written Final Exam - will be given on the last regular class meeting of the semester
 
-### Homework (15%)
-Completing the HW and in-class exercises is essential to learning the course material. You can expect an average of one HW assignment per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments.
+### Homework (20%)
+Completing the homework, in-class exercises, checkpoints, and other assigments is essential to learning the course material. You can expect an average of one outside assignment per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments.
 
-Homework and ICEs will NOT be accepted late without a valid excuse (procrastination, and missing the dropbox by 1 minute, are not valid excuses). 
-
-If you feel you have legitimate excuse, please contact the professor in **advance** of the due date either by email or during office hours.
+Assignments never submitted to the dropbox, or submitted LATE without a valid excuse will receive a score of ZERO for that assignment. (procrastination is not a valid excuse). If you feel you have legitimate excuse, please contact the professor in **advance** of the due date either by email or during office hours.
 
 **Important!** - When you submit web file(s) (HTML,CSS,JavaScript) to mycourses dropboxes, they (or the folder they are contained in) must be zipped (not .tar, .rar, .gzip, .sit, etc) If you do not do so, mycourses will strip out all of the CSS and JavaScript, and leave you with a non-functioning and ugly web page. Unzipped assignments will therefore usually receive a grade of zero.
 
 ### Attendance & Participation (5%)
-Note: 1 absence 4/5 points, 2 absences 3/5 points, 3 absences 1.5/5 points, 4 absences 0/5 points. **Each additional absence is 5% off of final average.** Arriving late is 1/2 absence. Facebooking or similar off-task activity during lectures or demos will count as an absence for the day. If you have a legitimate reason for missing class, notify your professor in advance of the class meeting.
+Note: Each absence is a loss of 1 of 5 points (and thus 1% off of your final grade). **Each additional absence beyond 5 is 5% off of final average.** Arriving late is 1/2 absence. Facebooking or similar off-task activity during lectures or demos will count as an absence for the day. If you have a legitimate reason for missing class, notify your professor in advance of the class meeting.
 
 ### Policy on Incomplete Grades
 Incomplete grades will be given only in the most exceptional circumstances, soley for issues that arise AFTER the 'W' deadline has passed at the end of week 11, and then only by prior arrangement with the professor. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework is not sufficient justification for an "I". Instead, meet with the professor ASAP as early as possible in the semester if you're having difficulty. 
