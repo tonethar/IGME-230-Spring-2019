@@ -1,11 +1,11 @@
-# Project 4 - Sprite-based Game or Experience
+# Project 3 - Sprite-based Game or Experience (DRAFT - DETAILS SUBJECT TO CHANGE)
 
 ## I. Overview
 *Using PixiJS, create an Interactive Game or Rich Media "experience"*:
 
 - For this project you (and optionally a partner) are creating a JavaScript-driven game or experience, as you outlined in Project 1
 - You will be updating/re-writing your web site from Project 1 to reflect the game/experience you intend to create (in other words, you are allowed to change your original idea)
-- If you would like to see examples of previous projects, check out the Project 4 links on the [week-01A-notes.md](../weekly/week-01A-notes.md#project4examples) page
+- If you would like to see examples of previous projects, check out the Project 3 links on the [week-01A-notes.md](../weekly/week-01A-notes.md#project3examples) page
 
 You will use **ONE** of these technology stacks:
 - **JavaScript & PixiJS** (which wraps WebGL): 
@@ -81,7 +81,7 @@ You will use **ONE** of these technology stacks:
 - Update the documentation on your Project 1 site to include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements
 - If you worked in a pair, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
-## VI. Presentation
+## VI. Presentation (DETAILS ON THIS BEING WORKED OUT)
 At the time of our scheduled meeting during finals week, you will present your project to the class in a brief demo. **Attendance for this is mandatory.** For this demo, show us:
 - What you made
 - What's cool, and what you think is "above and beyond"
