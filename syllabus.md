@@ -13,7 +13,7 @@
 - Teaching Assistant: Matt Tiffin
 - Office: GOL-2521
 - Email: anwigm@rit.edu
-- Office hours: TBD
+- Office hours: Monday, Wednesday 10:30am to 12:30pm
 - Class meetings:
   - Section 03 - MWF 11:00AM - 11:50AM in GOL-2025
   - Section 04 - MW 5:00PM - 6:15PM in GOL-2570
