@@ -264,6 +264,6 @@ body {
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-05B-notes.md**](week-05B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-06B-notes.md**](week-06B-notes.md)
+| [**week-04B-notes.md**](week-04B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-05B-notes.md**](week-05B-notes.md)
 
 
