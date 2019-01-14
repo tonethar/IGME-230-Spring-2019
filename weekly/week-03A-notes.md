@@ -1,4 +1,4 @@
-# Week 3A - Review of HTML
+# Week 2A - Review of HTML
 
 ## I. Topics & Overview
 - HTML Basics
