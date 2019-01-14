@@ -46,5 +46,5 @@ We will look at Bootstrap and other frameworks later, but for now it's nice to s
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-04A-notes.md**](week-04A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-05A-notes.md**](week-05A-notes.md)
+| [**week-03A-notes.md**](week-04A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-04A-notes.md**](week-05A-notes.md)
 
