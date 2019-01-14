@@ -1,4 +1,4 @@
-# Week 4A - Basic CSS Layouts
+# Week 3A - Basic CSS Layouts
 
 ## Topics
 - Finish Reviewing the CSS topics and Slides from [week 03B](week-03B-notes.md)
