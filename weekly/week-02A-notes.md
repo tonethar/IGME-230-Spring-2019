@@ -101,4 +101,4 @@ https://validator.w3.org/
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-02-notes.md**](week-02-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-03B-notes.md**](week-03B-notes.md)
+| [**week-01B-notes.md**](week-01B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-02B-notes.md**](week-02B-notes.md)
