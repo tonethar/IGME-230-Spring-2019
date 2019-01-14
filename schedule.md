@@ -29,30 +29,30 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
   
 ## <a id="week2">Week 2 : Review of Basic HTML/CSS
   
-  - [Week 2A - Review of HTML](weekly/week-03A-notes.md)
-  - [Week 2B - Review of CSS](weekly/week-03B-notes.md)
+  - [Week 2A - Review of HTML](weekly/week-02A-notes.md)
+  - [Week 2B - Review of CSS](weekly/week-02B-notes.md)
   
 ## <a id="week3">Week 3 : More CSS/Complex Selectors & Responsive Design
   
-  - [Week 3A - More CSS & Basic layouts](weekly/week-04A-notes.md)
-  - [Week 3B - Responsive Design and Media Queries](weekly/week-04B-notes.md)
+  - [Week 3A - More CSS & Basic layouts](weekly/week-03A-notes.md)
+  - [Week 3B - Responsive Design and Media Queries](weekly/week-03B-notes.md)
   
 ## <a id="week4">Week 4 : Navigation Systems & Visual Design
   
-  - [Week 4A - Navigation Systems](weekly/week-05A-notes.md)
-  - [Week 4B - Visual Design](weekly/week-05B-notes.md)
+  - [Week 4A - Navigation Systems](weekly/week-04A-notes.md)
+  - [Week 4B - Visual Design](weekly/week-04B-notes.md)
   
 ## <a id="week5">Week 5 : CSS Flexbox & CSS Wrap-up
   
-  - [Week 5A - The Site Design Process & CSS Flexbox](weekly/week-06A-notes.md)
-  - [Week 5B - Project 1 Critique](weekly/week-06B-notes.md)
+  - [Week 5A - The Site Design Process & CSS Flexbox](weekly/week-05A-notes.md)
+  - [Week 5B - Project 1 Critique](weekly/week-05B-notes.md)
   
   
 ## <a id="week6">Week 6 : Intro to Server-side programming (PHP)
   
  This week we will revisit web server scripting, and cover enough server-side programming (PHP) to make you dangerous :-)
  
- - [Week 6 - Introduction to PHP](weekly/week-02-notes.md)
+ - [Week 6 - Introduction to PHP](weekly/week-06-notes.md)
   
  Later on in the semester we will revisit PHP and use it to create our own customized *web service*.
   
