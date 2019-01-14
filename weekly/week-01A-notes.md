@@ -24,12 +24,12 @@ We will:
 * explore advanced CSS layout utilizing the CSS box model and the latest specifications
 * go beyond *type*, *class*, and *id* CSS selectors by utilizing advanced CSS3 selectors
 * learn how to add **advanced interactivity** to Web pages. Building Web apps and Web games requires knowledge of more than just HTML & CSS, but also of the JavaScript programming language that runs in all Web browsers. We will be covering the current standard version of JavaScript known as ES5 (ECMAScript 5), as well as some of the well-supported and powerful features of ES6 (AKA ECMAScript 6 or ECMAScript 2015)
-* construct **Web applications**. A Web app is a client–server software application in which the client (or user interface) runs in a Web browser. Examples of Web apps you might use are github.com, Gmail, and Google Drive. Web App assignments we will complete in class include:
+* construct **Web applications**. A Web app is a client–server software application in which the client (or user interface) runs in a Web browser. Examples of Web apps you might use are github.com, Gmail, and Google Drive. Web App assignments we will complete (or at least provide as an optional exercise) include:
     - an [Image Gallery](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-image-gallery.md)
     - an app that allows the user to search for and [view animated GIFs](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-gif-finder.md)
     - a [Pixel Art](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-pixel-artist.md) application
 * construct **interactive games** that run in the Web browser (these are also considered to be Web applications):
-  * utilizing the DOM (Document Object Model) and modern CSS features we will build:
+  * utilizing the DOM (Document Object Model) and modern CSS features you may build:
       - an [interactive concentration game](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-chibi-matching.md)
       - an [adventure game](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-adventure.md)
       - and a [Conway's game of Life simulation](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-life.md)
