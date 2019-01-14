@@ -1,4 +1,4 @@
-# Week 2: Introduction to PHP
+# Week 6: Introduction to PHP
 - This week we will continue to look at web server scripting, and will cover enough server-side programming (PHP) to make you dangerous :-)
 
 ## I. PHP - What is it?
