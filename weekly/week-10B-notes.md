@@ -56,7 +56,7 @@ Having an online portfolio you can share with potential employers is very import
 - [Portfolio](https://github.com/tonethar/IGME-230-Master/blob/master/presentations/Portfolio.pdf)
 
 ## V. Assignment
-- [Project 3 - Web Portfolio](../projects/project-3.md)
+- [Web Portfolio](../projects/portfolio.md)
 
 <hr><hr>
 
