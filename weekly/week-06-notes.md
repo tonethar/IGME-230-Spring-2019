@@ -36,5 +36,5 @@ See the mycourses dropboxes for due dates.
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-01B-notes.md**](week-01B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-03A-notes.md**](week-03A-notes.md)
+| [**week-05B-notes.md**](week-05B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-07-notes.md**](week-07-notes.md)
 
