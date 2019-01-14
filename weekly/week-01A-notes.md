@@ -122,7 +122,6 @@ Some sample IGME-230 projects from previous semesters:
     - Trampoline Trauma - https://people.rit.edu/axs6207/230/project3/project.html
     - Apocalypse Escape - https://people.rit.edu/scr3876/230/project1/project.html
     - Adventuroso - https://people.rit.edu/~ctq6891/230/projects/project1/project.html
-    - Spellguard - https://people.rit.edu/tmh6112/230/project3/project.html
     - Project IPRE - https://people.rit.edu/~deb2610/230/project1/project.html
     - Vector Victor - https://people.rit.edu/sxf5282/230//project1/project.html
     - Trophy Hunter - https://people.rit.edu/mxr2091/230/finalproject/game.html
