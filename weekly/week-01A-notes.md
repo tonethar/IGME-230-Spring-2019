@@ -45,26 +45,27 @@ This course is not focused on "Web design," but instead on developing highly int
 
 Once you complete this course you should be able to do the following:
 - publish a traditional multi-page website to the Web. The content will be properly "chunked" and the site navigation will be intuitive and easy to use.
-- publish a single-page application (SPA) website portfolio. You can see an example here: http://dougwatro.com - this example has eight distinct "pages" of content that are presented on a single Web page.
+- publish a single-page application (SPA) website portfolio. 
 - code a Web application that can connect to Web services, and download/display their data.
 - code a DOM Web game that uses HTML/CSS for the User Interface, and JavaScript for game logic & interactivity.
 - code a sprite-based game such as a shooter or platformer utilizing JavaScript and PixiJS. 
 
 ## V. Pedagogy (how this course is taught!)
-- ***You need to review the week's lecture notes *prior* to attending class for that week***
+- ***You should review the week's lecture notes *prior* to attending class for that week***
 - A typical classroom day will be:
     - a review of the days topics utilizing Powerpoints or our Github lecture notes
-    - a live demo by the professor that reinforces the day's topics
+    - a live demo by the professor when possible that reinforces the day's topics
     - if time remains, students will be able to work on homework assignments
-- The assignments given in this class break into two categories:
+- The assignments given in this class break into three categories:
     - homework assignments or in-class exercises that focus narrowly on one or more concepts
-    - four projects with more flexible requirements that allow you to exercise considerable freedom and creativity in demonstrating key skills and understanding
-- A large part of this course is taught similar to a typical math course: there will be several small homework assignments given every week, and because these assignments build upon one another, it is essential that they be completed both on-time and in-order, thus they have strict due dates.
-- Keep an eye on the dropboxes in myCourses for what and when things are due. HW assignments will not be accepted late without prior permission from the instructor:
+    - three projects with more flexible requirements that allow you to exercise considerable freedom and creativity in demonstrating key skills and understanding
+    - an overarching portfolio assignment that should be built throughout the semester
+- A large part of this course is taught similar to a typical math course: there will be smaller homework assignments given every week, and because these assignments build upon one another, it is essential that they be completed both on-time and in-order, thus they have strict due dates.
+- Keep an eye on the dropboxes in myCourses for what and when things are due. Late homework assignments receive a grade of zero without prior permission from the instructor:
     - if something comes up and you need an extension you need to get in touch with us ASAP *before* the assignment is due
     - **Reminder:** *all code files (HTML, CSS, JavaScript) must be zipped when put in a dropbox, because otherwise myCourses strips out the JavaScript and CSS, and you will likely get a zero on the assignment*
-- The due dates for these assignments will be clustered around the same days, often on Sunday night. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due.
-- Please get to class on time! Lectures will begin promptly at the start of class.
+- The due dates for these assignments may be clustered around the same day. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due.
+- Please get to class on time! Attendance will be taken and lectures will begin promptly at the start of class.
 
 ## VI. <a id="section5"></a>Projects and other stuff for inspiration
 There are a lot of reasons to improve your Web development skills. Think about how much you use the Web every day, and how integrated it is into the games and new media interactive development fields. Games on the Web are pretty big right now. Also, it's a fantastic medium for showing off your work to the world, including potential employers!
@@ -73,29 +74,44 @@ Past Student Portfolios:
 - http://katiepustolski.com/
 - http://brianemling.com/
 - http://dougwatro.com
+- http://barringtoncampbell.com/
+- https://people.rit.edu/mxb9517/portfolio/
+- https://people.rit.edu/mac9406/portfolio/
+- https://people.rit.edu/ctb4332/portfolio/
+- https://people.rit.edu/sxf5282/portfolio/
+- https://people.rit.edu/sml6783/230/portfolio/
+- https://people.rit.edu/lpn4937/portfolio/
+- https://people.rit.edu/djs5435/portfolio/
+- https://people.rit.edu/jds7523/portfolio/
+- https://people.rit.edu/drs4149/portfolio/
+- https://people.rit.edu/ekt6170/portfolio.html
+- https://people.rit.edu/axw1799/portfolio/
+- https://people.rit.edu/wjb5377/230/portfolio/
+- https://people.rit.edu/iae2784/portfolio/
+- https://people.rit.edu/swa4861/portfolio/
 
-Some sample IGME-230 projects from last year:
-- **Web Portfolio (Project 3)**:
-    - http://barringtoncampbell.com/
-    - https://people.rit.edu/mxb9517/portfolio/
-    - https://people.rit.edu/mac9406/portfolio/
-    - https://people.rit.edu/ctb4332/portfolio/
-    - https://people.rit.edu/sxf5282/portfolio/
-    - https://people.rit.edu/sml6783/230/portfolio/
-    - https://people.rit.edu/lpn4937/portfolio/
-    - https://people.rit.edu/djs5435/portfolio/
-    - https://people.rit.edu/jds7523/portfolio/
-    - https://people.rit.edu/drs4149/portfolio/
-    - https://people.rit.edu/ekt6170/portfolio.html
-    - https://people.rit.edu/axw1799/portfolio/
-    - https://people.rit.edu/wjb5377/230/portfolio/
-    - https://people.rit.edu/iae2784/portfolio/
-    - https://people.rit.edu/swa4861/portfolio/
+Some sample IGME-230 projects from previous semesters:
 - **Web App or Web Service driven App (Project 2)**:
     - Media Finder (iTunes Web Service) - https://people.rit.edu/~kts6823/230/project2/index.html
     - Pixel Art - https://people.rit.edu/~deb2610/230/project2/PixelPainterExtended.html
     - Music Finder (iTunes Web Service) - https://people.rit.edu/axs6207/230/project2/musicFinder.html
-- **PixiJS Sprite Game (Project 4)**:<a id="project4examples"></a>
+- **DOM Game (Project 3)**:   
+    - Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
+    - Minesweeper - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
+    - Star Wars Matching Game - https://people.rit.edu/dso2890/230/projects/project2/index.html
+    - Checkers - https://people.rit.edu/djs5435/230/project2/
+    - Conway's Game of Life - https://people.rit.edu/~wcd7037/230/Project2/Life/pixel-life.html
+    - Connect Four - https://people.rit.edu/paa9307/230/project2/
+    - "Simonish" Memory Game - https://people.rit.edu/arw2013/WhoSays/whoSays.html
+    - ASCII Dungeoneer - https://people.rit.edu/btf6119/230/projects/2/index.html
+    - Chess - https://people.rit.edu/~dxc6879/230/project2.2/project-2.html
+    - Musical Minesweeper - https://people.rit.edu/~iae2784/230/project2/project.html
+    - L'eau - https://people.rit.edu/~hhn2884/230/project2/
+    - Lines and Squares - https://people.rit.edu/~spb6892/230/project2/project2.html
+    - Cave Sweeper - https://people.rit.edu/~gad4037/230/project2/
+    - Slots - https://people.rit.edu/~jxg3645/230/casino/index.html
+    - Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
+- **PixiJS Sprite Game (Project 3)**:<a id="project4examples"></a>
     - Bullet Rush - https://people.rit.edu/~jpa3216/230/project1/
     - taMAGGOTchi - https://people.rit.edu/~hhn2884/230/project1/
     - Night Walk 2! - https://people.rit.edu/mro5772/230/project1/PlayGame
@@ -126,23 +142,7 @@ Some sample IGME-230 projects from last year:
     - Reekris vs. Beebo - https://people.rit.edu/dgl6789/230/project1/project.html
     - Flight of the Ninjas - https://people.rit.edu/~mxo9722/230/project1/project.html
     - Audio Visualizer - https://people.rit.edu/~mzt5441/230/project1/
-- **DOM Game (Project 4)**:   
-    - Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
-    - Minesweeper - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
-    - Star Wars Matching Game - https://people.rit.edu/dso2890/230/projects/project2/index.html
-    - Checkers - https://people.rit.edu/djs5435/230/project2/
-    - Conway's Game of Life - https://people.rit.edu/~wcd7037/230/Project2/Life/pixel-life.html
-    - Connect Four - https://people.rit.edu/paa9307/230/project2/
-    - "Simonish" Memory Game - https://people.rit.edu/arw2013/WhoSays/whoSays.html
-    - ASCII Dungeoneer - https://people.rit.edu/btf6119/230/projects/2/index.html
-    - Chess - https://people.rit.edu/~dxc6879/230/project2.2/project-2.html
-    - Musical Minesweeper - https://people.rit.edu/~iae2784/230/project2/project.html
-    - L'eau - https://people.rit.edu/~hhn2884/230/project2/
-    - Lines and Squares - https://people.rit.edu/~spb6892/230/project2/project2.html
-    - Cave Sweeper - https://people.rit.edu/~gad4037/230/project2/
-    - Slots - https://people.rit.edu/~jxg3645/230/casino/index.html
-    - Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
-    
+
 And some other really cool stuff:
 - http://www.chromeexperiments.com/
 
@@ -158,11 +158,8 @@ And some other really cool stuff:
 ## IX. Homework
 - **Always keep a close eye on the mycourses dropboxes so that you know what's due & when!**
 - Get a GitHub account (if you don't have one already) - [GitHub Student Developer Pack](https://education.github.com/pack) - and go through the tutorial - [GitHub's Hello World tutorial](https://guides.github.com/activities/hello-world/)
-- Set up a repository *for this course* in your account, named *IGME230* or something similar, and put a link to it in the comments field of the myCourses "GitHub Accounts" dropbox. This should be a public repository (otherwise the link won't work).
+- Set up a repository *for this course* in your account, named *IGME230* or something similar, and put a link to it in the comments field of the myCourses "GitHub Accounts" dropbox. This should be a public repository (otherwise the link won't work) -- you can set it to a private repository later in the semester.
 - Create a `230` folder on `banjo.rit.edu` - put it in your `www` folder and be sure that the permissions are set so that it is web viewable. Did you forget how to post to banjo? Here are some hints - [posting-to-banjo.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/posting-to-banjo.md)
-
-## X. Any time left?
-- If there is time left today, let's head to the notes for our next class meeting -  [week-01B-notes.md](week-01B-notes.md) - and do a little bit of HTML & FTP review!
 
 <hr><hr>
 
