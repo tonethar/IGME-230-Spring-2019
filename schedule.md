@@ -9,15 +9,15 @@
 - [Week 04: Navigation Systems & Visual Design](#week4)
 - [Week 05: CSS Flexbox & CSS Wrap-up](#week5)
 - [Week 06: Intro to Server-side programming (PHP)](#week6)
-- [Week 07: Intro to Client-side Programming & October Break](#week7)
+- [Week 07: Intro to Client-side Programming](#week7)
 - [Week 08: More DOM/JavaScript & Midterm Exam](#week8)
 - [Week 09: Events, Objects, Web Storage & Web Services](#week9)
 - [Week 10: HTML Frameworks & Portfolios](#week10)
 - [Week 11: Intro to PixiJS](#week11)
-- [Week 12: More PixiJS & Thanksgiving Holiday](#week12)
+- [Week 12: More PixiJS](#week12)
 - [Week 13: PixiJS Wrap up](#week13)
-- [Week 14: Review & Final Exam](#week14)
-- [Finals Week Meeting](#finalsweek)
+- [Week 14: Project 3 Assessment & Exam Review Week](#week14)
+- [Finals Week](#finalsweek)
 
 
 ## <a id="week1">Week 1 : Course Intro & FTP/banjo/.htaccess files
@@ -93,8 +93,8 @@ The midterm exam will given the last class meeting of week 8
   
 ## <a id="finalsweek">Finals Week Meeting
 
-During finals week, we will meet as a group and look at everyone's final projects! 
-- Check SIS for your section's meeting time and location
+During finals week, we will have our Final Exam & share our web portfolios. 
+- Check SIS for your section's exam time and location
 
 <hr>
 
