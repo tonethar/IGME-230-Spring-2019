@@ -91,7 +91,7 @@ Now we will build a responsive web page using the [Skeleton](http://getskeleton.
 
 
 ## IX. Assignment
-- [Project 3 - Web Portfolio](../projects/project-3.md)
+- [Web Portfolio](../projects/portfolio.md)
 
 <hr><hr>
 
