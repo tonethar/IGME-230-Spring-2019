@@ -1,4 +1,4 @@
-# Week 3B - Review of CSS
+# Week 2B - Review of CSS
 
 ## I. Topics & Overview
 - Where we can put CSS
