@@ -52,7 +52,7 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
   
  This week we will revisit web server scripting, and cover enough server-side programming (PHP) to make you dangerous :-)
  
- - [Week 2 - Introduction to PHP](weekly/week-02-notes.md)
+ - [Week 6 - Introduction to PHP](weekly/week-02-notes.md)
   
  Later on in the semester we will revisit PHP and use it to create our own customized *web service*.
   
