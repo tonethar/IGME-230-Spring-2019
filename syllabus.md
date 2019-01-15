@@ -15,9 +15,8 @@
 - Email: anwigm@rit.edu
 - Office hours: Monday, Wednesday 10:30am to 12:30pm
 - Class meetings:
-  - Section 03 - MWF 11:00AM - 11:50AM in GOL-2025
-  - Section 04 - MW 5:00PM - 6:15PM in GOL-2570
-  - Section 05 - TR 11:00AM - 12:15PM in GOL-2435
+  - Section 01 - T,Th 2:00PM - 3:15PM in GOL-2570
+  - Section 02 - T,Th 5:00PM - 6:15PM in GOL-2435
   
 ## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
