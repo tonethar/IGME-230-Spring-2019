@@ -1,11 +1,15 @@
 # Week 1B - Review of *banjo.rit.edu* & FTP
 
 ## Topics
+- Quick HTML Review/Intro
 - FTP review
 - Setting up your `230` directory
 - Scripting the server with `.htaccess` files
 
-## I. FTP Demo
+## I. Quick HTML Review/Intro
+- [230 HTML Intro](https://github.com/tonethar/IGME-230-Master/blob/master/docs/230-HTML-intro.pdf)
+
+## II. FTP Demo
 FTP demo and review (we will do this together in class):
    - Create a local 230 directory, and put a *hello.html* file in it
    - **Reminder:** always keep backups, bring a flash drive to class; the `230` folder on people.rit.edu is where course work will usually be posted
@@ -38,10 +42,10 @@ FTP demo and review (we will do this together in class):
 1. navigate a browser to that directory - **`http://people.rit.edu/~abc1234/230/hello.html`** and you should see your *hello.html* page
 1. remember CSS? Let's add some CSS style rules to the page!
 
-## II. Presentation
+## III. Presentation
 - [Auth and htaccess PDF](https://github.com/tonethar/IGME-230-Master/tree/master/docs/Auth-and-htaccess.pdf)
 
-## III. htaccess Demo
+## IV. htaccess Demo
 *A .htaccess ("hypertext access") file is a directory-level configuration file supported by the major web servers, used for configuration of site-access issues, such as URL redirection, URL shortening, Access-security control (for different webpages and files), and more.*
 
 In class, let's take a look at what .htaccess files can do. We will look at the following htaccess directives:
@@ -53,12 +57,12 @@ In class, let's take a look at what .htaccess files can do. We will look at the 
 5. `Redirect /~acjvks/230/ /~acjvks/110/` - redirects the browser from a folder, to a different folder
 6. `ModPagespeed off` - turns off the ModPagespeed extension
 
-## IV. Exercises
+## V. Exercises
 See mycourses dropboxes for due dates:
 - ["Fixing Banjo" instructions](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-1/Fixing-Banjo.md)
 - [Custom 404 Pages and Authentication files (ZIP)](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-1/Custom_404_Auth_start.zip)
 
-## V. Reference
+## VI. Reference
 - Banjo Authentication Docs: https://www.rit.edu/webdev/authenticating-and-authorizing-rit-users
 - Advanced Scripting with .htaccess files: https://www.askapache.com/htaccess/
 - https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
