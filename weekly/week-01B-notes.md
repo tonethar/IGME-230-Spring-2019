@@ -21,11 +21,6 @@ FTP demo and review (we will do this together in class):
 <head>
 	<meta charset="utf-8" />
 	<title>Hello Page</title>
-	<style>
-	h1{
-	  font-family:sans-serif;
-	}
-	</style>
 </head>
    <body>
       <h1>Week 1 in 230!</h1>
@@ -40,7 +35,6 @@ FTP demo and review (we will do this together in class):
 1. review file/folder permissions to be sure they are correct
 1. **Reminder:** **`banjo.rit.edu`** is the FTP name, but the browser will access the URL **`people.rit.edu`**
 1. navigate a browser to that directory - **`http://people.rit.edu/~abc1234/230/hello.html`** and you should see your *hello.html* page
-1. remember CSS? Let's add some CSS style rules to the page!
 
 ## III. Presentation
 - [Auth and htaccess PDF](https://github.com/tonethar/IGME-230-Master/tree/master/docs/Auth-and-htaccess.pdf)
