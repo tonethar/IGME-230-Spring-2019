@@ -6,7 +6,7 @@
 - Setting up your `230` directory
 - Scripting the server with `.htaccess` files
 
-## I. Quick HTML Review/Intro
+## I. Presentation 1
 - [230 HTML Intro](https://github.com/tonethar/IGME-230-Master/blob/master/docs/230-HTML-intro.pdf)
 
 ## II. FTP Demo
@@ -36,7 +36,7 @@ FTP demo and review (we will do this together in class):
 1. **Reminder:** **`banjo.rit.edu`** is the FTP name, but the browser will access the URL **`people.rit.edu`**
 1. navigate a browser to that directory - **`http://people.rit.edu/~abc1234/230/hello.html`** and you should see your *hello.html* page
 
-## III. Presentation
+## III. Presentation 2
 - [Auth and htaccess PDF](https://github.com/tonethar/IGME-230-Master/tree/master/docs/Auth-and-htaccess.pdf)
 
 ## IV. htaccess Demo
