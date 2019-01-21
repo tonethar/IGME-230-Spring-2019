@@ -6,13 +6,37 @@
 - Paths
 - HTML validation
 
-## II. The layers of Web design
+## II. Quick Review: Layers of Web design 
+Associated Presentation from last class: [Welcome to HTML](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/HTML-1.pdf)
 1. Content
 1. Structure
 1. Presentation
 1. Behavior
 
-## III. Review and Demo
+
+## III. Quick Review: HTML Skeleton
+This is the bare minimum needed for a valid HTML document:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+```
+
+Memorize it, but keep in mind that most editors will allow you to instantly add this template code with a menu option or an auto-expanding short-cut.  
+
+
+## IV. Review and Demo
+Introductory Presentation: [More About HTML](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/HTML-2.pdf)
+Demo File: [It Was a Dark and Stormy Night](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/stormy-files.zip)
+
 Together, we'll build a Web page, reviewing the following:
 - Basic markup and structure
 - Structural and semantic elements
@@ -58,42 +82,23 @@ Ocassionally you may need use *absolute* paths to files located within your banj
    - No special characters (?, !, *, etc.)
    - Avoid caps (case-sensitive)
 
-## IV. Note on using images
-- Images should always be integrated into your page at their native resolution. Resizing via HTML or CSS eats bandwidth and leads to long load times. It also uses up unnecessary space on our server.
+## V. Note on using images
+- Images should always be integrated into your page at their native resolution unless designing for newer high-resolution ("Retina") displays. 
+- Simply resizing via HTML or CSS will use more bandwidth and lead to long load times. 
+- See these pages for a discussion of techniques relating to high-resolution displays:
+  - https://www.sitepoint.com/support-retina-displays/
+  - https://www.leemunroe.com/designing-for-high-resolution-retina-displays/
 - See our in-class demo for a refresher on proper image optimization.
-
-## V. HTML Skeleton
-This is the bare minimum needed for a valid HTML document:
-
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8" />
-	<title></title>
-</head>
-<body>
-
-</body>
-</html>
-```
 
 ## VI. Validation
 https://validator.w3.org/
 
-## VII. Presentations
-- [Welcome to HTML](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/HTML-1.pdf)
-- [More About HTML](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/HTML-2.pdf)
-
-## VIII. Demo Files
-- [It Was a Dark and Stormy Night](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/stormy-files.zip)
-
-## IX. Reference
+## VII. Reference
 - [developer.mozilla.org HTML Element Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - All the HTML elements grouped by function
 - [Lynda.com HTML Essential Training, Lessons 4-5.](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu) - discusses structuring content, and linking to distinct parts of your page.
 - [W3Schools](https://www.w3schools.com) - a reference for all things Web (HTML, CSS, JavaScript, etc.)
 
-## X. Exercises
+## VIII. Exercises
 - [Basic Markup/CSS - Recipe](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-3/recipe.md) - Note: This exercise covers material from both today and next class. If you want to work ahead, that's fine.
 - [230 Home Page](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/230-home-page.md)
 
