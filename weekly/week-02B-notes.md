@@ -27,7 +27,7 @@ a:active{}
 + *margin* is space that is "outside the box"
 + *padding* is space that is "inside the box"
 
-![BoxModel](https://github.com/tonethar/IGME-230-Master/blob/master/other-files/BoxModel.png)
+![BoxModel](https://github.com/tonethar/IGME-230-Master/blob/master/other-files/box-model-content-box.png)
 
 + The overwall width is the sum of the content area width (which can be set with CSS) plus the padding, borders, and margins.
   - note: there is a CSS3 property ([box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)) which can change the default sizing behavior so that the width includes padding and border width.
