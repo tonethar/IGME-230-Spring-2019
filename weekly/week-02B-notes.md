@@ -17,8 +17,8 @@ Together, we'll add to our previous Web page, reviewing the following:
 ```
 a:link{}
 a:visited{}
-a:active{}
 a:hover{}
+a:active{}
 ```
 - Inheritance
 
@@ -29,6 +29,8 @@ a:hover{}
 
 ![BoxModel](https://github.com/tonethar/IGME-230-Master/blob/master/other-files/BoxModel.png)
 
++ The overwall width is the sum of the content area width (which can be set with CSS) plus the padding, borders, and margins.
+  - note: there is a CSS3 property ([box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)) which can change the default sizing behavior so that the width includes padding and border width.
 
 ## IV. Validation
 http://jigsaw.w3.org/css-validator/
