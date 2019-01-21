@@ -5,6 +5,7 @@
 - Structural and semantic tags
 - Paths
 - HTML validation
+- CSS Basics
 
 ## II. Quick Review: Layers of Web design 
 Associated Presentation from last class: [Welcome to HTML](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/HTML-1.pdf)
