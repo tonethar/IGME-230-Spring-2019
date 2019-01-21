@@ -94,6 +94,9 @@ Ocassionally you may need use *absolute* paths to files located within your banj
 ## VI. Validation
 https://validator.w3.org/
 
+## VII. As time allows...
+- We will move on to the material in the [next set of lecture notes...](week-02B-notes.md)
+
 ## VII. Reference
 - [developer.mozilla.org HTML Element Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - All the HTML elements grouped by function
 - [Lynda.com HTML Essential Training, Lessons 4-5.](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu) - discusses structuring content, and linking to distinct parts of your page.
@@ -101,7 +104,7 @@ https://validator.w3.org/
 
 ## VIII. Exercises
 - [Basic Markup/CSS - Recipe](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-3/recipe.md) - Note: This exercise covers material from both today and next class. If you want to work ahead, that's fine.
-- [230 Home Page](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/230-home-page.md)
+- [230 Home Page](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/230-home-page.md) - Note: The due date for this exercise is a week later than the exercise above.  We will cover some more advanced layout styles that you're welcome to use for your page
 
 <hr><hr>
 
