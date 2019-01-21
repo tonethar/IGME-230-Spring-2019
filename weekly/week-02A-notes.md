@@ -94,7 +94,7 @@ Ocassionally you may need use *absolute* paths to files located within your banj
 ## VI. Validation
 https://validator.w3.org/
 
-## VII. As time allows...
+## VII. CSS Basics (as time allows)
 - We will move on to the material in the [next set of lecture notes...](week-02B-notes.md)
 
 ## VII. Reference
