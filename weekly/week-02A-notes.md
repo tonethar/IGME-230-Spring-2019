@@ -37,7 +37,7 @@ Memorize it, but keep in mind that most editors will allow you to instantly add 
 ## IV. Review and Demo
 Introductory Presentation: [More About HTML](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/HTML-2.pdf)
 
-Demo File: Download "dark-and-story.zip" from this week's MyCourses content area.
+Demo File: https://github.com/tonethar/IGME-230-Master/tree/master/other-files/stormy-files.zip
 
 Together, we'll build a Web page, reviewing the following:
 - Basic markup and structure
