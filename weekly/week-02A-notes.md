@@ -49,7 +49,7 @@ Together, we'll build a Web page, reviewing the following:
    - https://www.w3schools.com/html/html5_new_elements.asp
 - *Container* tags describe textual content contained within them. Ex: `<p>, <a>, <span>, <div>`
 - *Standalone* tags do not have a closing tag that contains text. Ex: `<img>, <link>`
-- Both kinds of tags commonly have one or more *attributes* that modify the tag in some way - for example an `<a>' tag needs an `href` attribute with a value, or it's pretty much useless. Ditto for and `<img>` tag without a `src` attribute.
+- Both kinds of tags commonly have one or more *attributes* that modify the tag in some way - for example an `<a>` tag needs an `href` attribute with a value, or it's pretty much useless. Ditto for an `<img>` tag without a `src` attribute.
 - Tags to know:
    - h1, h2, etc.
    - p
