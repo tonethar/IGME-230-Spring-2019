@@ -19,7 +19,7 @@ Content is the foundation of the Web; all pages exist to present some content, n
     - This page must have a brief overview of your project, contain at least one image, and most importantly grab the user's attention.
   - **proposal.html**: what you plan to do, in more detail than the overview:
     - This page will be a game design document, specifically a *game treatment* that describes the development side of your game. This page is not a marketing document.
-    - You should be hitting most or all of the things on this template: http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html - you can also read more about game treatments here: http://thelegendofjohnny.com/tutorials/game-treatment
+    - You should be hitting most or all of the things on this template (providing the content that would fill in for each roman numeral -- ignore the "Instructions" and "discussions" sections below the red lines): http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html - you can also read more about game treatments here: http://thelegendofjohnny.com/tutorials/game-treatment
     - This page will be marked up heavily with structural and semantic tags, some of which are listed below.
     - This page will contain at least two images.
   
