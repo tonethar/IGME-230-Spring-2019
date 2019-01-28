@@ -3,6 +3,7 @@
 ## Topics
 - Responsive Design
 - CSS Media Queries
+- Introduction to Flexbox and CSS Grid (as time allows).
 
 Responsive design all boils down to a visual design that responds to the size of a user's device or screen. Flexible, "liquid" layouts are one part of this, but to really optimize the experience for any given device we need to utilize custom CSS for each device. Enter: media queries!
 
