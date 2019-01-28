@@ -12,6 +12,11 @@
     - CSS
         - font-variant
         - attribute selectors
+        
+## Preparing for Next Class:
+- Play two web-development games:
+    - [Flexbox Froggy](http://flexboxfroggy.com)
+    - [Grid Garden](http://cssgridgarden.com)
 
 ## Project 1 - See dropbox for due date.
 - [Project 1](../projects/project-1.md)
