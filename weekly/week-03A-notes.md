@@ -12,8 +12,6 @@
     - CSS
         - font-variant
         - attribute selectors
- - Multi-column layouts
-    - start files are here: [CSS-Layout-Demos.zip](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-4/CSS-Layout-Demos.zip)
 
 ## Project 1 - See dropbox for due date.
 - [Project 1](../projects/project-1.md)
