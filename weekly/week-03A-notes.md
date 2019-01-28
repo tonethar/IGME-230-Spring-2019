@@ -17,6 +17,7 @@
 - [Project 1](../projects/project-1.md)
     - the first deliverable is your *content*, which will posted to your github account
 - [Markdown Example File](../projects/_supporting-files/steam-invaders-demo.md.zip)
+    - Note: Editing Markdown in VS Code works well, as it can previewed natively.  Try `Control+Shift+V` to open a preview tab or `Control-K` followed by `V` to open a preview to the side.
 
 <hr><hr>
 
