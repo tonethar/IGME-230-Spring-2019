@@ -12,7 +12,8 @@
     - CSS
         - font-variant
         - attribute selectors
-        
+- Responsive Design & Media Queries sneak-peek if time remains.  (links in next days notes...)      
+
 ## Preparing for Next Class:
 - Play two web-development games:
     - [Flexbox Froggy](http://flexboxfroggy.com)
