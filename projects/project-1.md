@@ -1,6 +1,6 @@
 # Project 1 - Game Proposal Site
 ## I. Overview
-For project 4, you will be making a Web game or "experience." To get you started thinking about this early, for Project 1 you'll be building a site to promote and document a Web game project. For the purposes of project 1, don't worry too much about the scope of the game, or the fact that your specs will probably change. Just think about what you might want to make. (But when looking ahead to Project 4, when you actually have to build something, I suggest you keep an eye on the Web for what sorts of apps and games other people are making that are small enough in scope for you to build in the span of a few weeks.)
+For project 3, you will be making a Web game or "experience." To get you started thinking about this early, for Project 1 you'll be building a site to promote and document a Web game project. For the purposes of project 1, don't worry too much about the scope of the game, or the fact that your specs will probably change. Just think about what you might want to make. (But when looking ahead to Project 3, when you actually have to build something, I suggest you keep an eye on the Web for what sorts of apps and games other people are making that are small enough in scope for you to build in the span of a few weeks.)
 
 ## II. Requirements
 Location: The page will be located in the project1 directory in your 230 directory on Banjo. This means that the location of page on the web will be **`http://people.rit.edu/abc1234/230/project1/`** (where 'abc1234' is your RIT id), as shown below:
@@ -35,7 +35,7 @@ Content is the foundation of the Web; all pages exist to present some content, n
   -	There will be at least 5 style declarations (rules) in your external style sheet. 
     -	At least one of these style declarations will utilize a *class selector*.
     -	At least one of these style declarations will utilize an *id selector*.
-    - Utilize custom link styles on all your pages by utilizing the `a:link`, `a:hover`, `a:active` and `a:visited` selectors. (These 4 selectors do not count towards the 5 style rule requirement above)
+    - Utilize custom link styles on all your pages by utilizing the `a:link`, `a:visited`, `a:hover`, and `a:active` selectors. (These 4 selectors do not count towards the 5 style rule requirement above)
   - Avoid using *inline* styles.
 
 ### II-D. Design
@@ -52,9 +52,11 @@ Content is the foundation of the Web; all pages exist to present some content, n
 ### II-E. Other Requirements
 - Do not use an HTML/CSS template that you found on the Web or elsewhere! Build the HTML and CSS yourself "from scratch." Ignoring this requirement will result in a zero on the assignment and possible other academic integrity consequences.
 - HTML tables used only for tabular data, not page layout.
+    - You are encouraged (but not required) to use CSS Grid and/or Flexbox to help layout your page.
 - No plugin content (Flash, et al.)
 - Site is fully accessible even without graphics enabled (e.g., use the `alt` attribute for all images).
 - Images are not resized via code; all images must be at their native resolutions. If you need an image to be smaller, resize it in your graphic editor of choice.
+    - We will be somewhat lenient about this in light of Retina-style displays.  There is no need, however, to have an image that is more than twice the dimensions that it's displayed at.  If you flagrantly use a gigantic image and size it down to something small on your page, you will lose points in this category.
 - Images must be saved in the appropriate Web-friendly format i.e. Photographs are usually saved as JPEGs, lineart graphics are saved as PNGs or GIFs.
 
 ## III. Deliverables
@@ -68,7 +70,7 @@ See myCourses dropbox for due date.
 
 ### III-B. Critique Session
 We will have a critique session in class, right after the prototype is due. In small groups, you will both give and receive feedback on your projects, so be prepared for this discussion.
-While the critiques aren’t going to directly determine your project grade, the feedback you receive will be taken into consideration, so make sure your project is built to impress!
+While the critiques aren’t going to directly determine your project grade, the feedback you receive may be taken into consideration, so make sure your project is built to impress!
 
 ### III-C. Final Submission
 After receiving feedback from your classmates, make fixes and improvements to your site, and post it to Banjo before the due date.
