@@ -1,7 +1,8 @@
 # Week 3A - Basic CSS Layouts
 
 ## Topics
-- Finish Reviewing the CSS topics and Slides from [week 03B](week-03B-notes.md)
+- Discuss Page Layout methods.
+    - Reference: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout
 - Single Column Layout Demo/ICE
     - Start files are here: [holmes_start.zip](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-4/holmes_start.zip)
     - We are building a reasonable looking single-column layout
