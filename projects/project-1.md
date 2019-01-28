@@ -52,7 +52,7 @@ Content is the foundation of the Web; all pages exist to present some content, n
 ### II-E. Other Requirements
 - Do not use an HTML/CSS template that you found on the Web or elsewhere! Build the HTML and CSS yourself "from scratch." Ignoring this requirement will result in a zero on the assignment and possible other academic integrity consequences.
 - HTML tables used only for tabular data, not page layout.
-    - You are encouraged (but not required) to use CSS Grid and/or Flexbox to help layout your page.
+    - You are encouraged (but not required) to use CSS Grid and/or Flexbox to help lay out your page.
 - No plugin content (Flash, et al.)
 - Site is fully accessible even without graphics enabled (e.g., use the `alt` attribute for all images).
 - Images are not resized via code; all images must be at their native resolutions. If you need an image to be smaller, resize it in your graphic editor of choice.
