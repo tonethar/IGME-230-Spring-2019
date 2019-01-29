@@ -19,7 +19,7 @@
     - [Flexbox Froggy](http://flexboxfroggy.com)
     - [Grid Garden](http://cssgridgarden.com)
 
-## Project 1 - See dropbox for due date.
+## Project 1 - Due Date announced next class.
 - [Project 1](../projects/project-1.md)
     - the first deliverable is your *content*, which will posted to your github account
 - [Markdown Example File](../projects/_supporting-files/steam-invaders-demo.md.zip)
