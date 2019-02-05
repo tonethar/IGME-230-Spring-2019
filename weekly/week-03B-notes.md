@@ -60,7 +60,7 @@ We will look at Bootstrap and other frameworks later, but for now it's nice to s
 
 ## Demo
 - [Responsive page demo](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/Responsive_Demo.zip)
-
+- Download flex-grid-demo-files.zip from myCourses for Flexbox and CSS Grid demo.
 
 ## Exercise
 - [Responsive Design with CSS Media Queries](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-4/ICE-ResponsiveCSS.pdf)
