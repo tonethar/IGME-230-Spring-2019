@@ -1,4 +1,6 @@
-# Week 4A - CSS Wrapup
+# For February 5th lecture materials.. See Week 3B.  RIT's closure has gotten us slightly off schedule.  We'll catch back up in the coming weeks.
+
+# Week 4A - CSS Wrapup   (Potential material. To be updated.)
 
 ## Topics
 - Navigation
@@ -44,7 +46,7 @@ Our demo today covers:
 - [CSS Layout Demos](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/3B-CSS-Layout-Demos.zip)
 - [CSS Transition Demo](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/3B-Transition-demo-done.zip)
 
-## Exercises
+## Exercises (this exercise will be replaced)
 - [Stylish Navigation](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-5/stylish-nav.md)
 - [Stylish Navigation Start Files](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-5/stylish-nav-start.zip)
 
@@ -52,6 +54,6 @@ Our demo today covers:
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-04B-notes.md**](week-04B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-05B-notes.md**](week-05B-notes.md)
+| [**week-03B-notes.md**](week-03B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-04B-notes.md**](week-04B-notes.md)
 
 
