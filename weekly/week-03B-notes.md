@@ -63,6 +63,7 @@ We will look at Bootstrap and other frameworks later, but for now it's nice to s
 - Download flex-grid-demo-files.zip from myCourses for Flexbox and CSS Grid demo.
 
 ## Exercise
+- [Optional Flexbox Notes/Exercise](https://github.com/dccircuit/IGME-230-Spring-2019/blob/master/weekly/flexbox-ex.md)
 - [Responsive Design with CSS Media Queries](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-4/ICE-ResponsiveCSS.pdf)
 - [Responsive Design start files](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-4/darth_start_files.zip)
 
