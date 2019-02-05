@@ -1,4 +1,4 @@
-# For February 5th lecture materials.. See Week 3B.  RIT's closure has gotten us slightly off schedule.  We'll catch back up in the coming weeks.
+# For February 5th lecture materials.. See [Week 3B](week-03B-notes.md).  RIT's closure has gotten us slightly off schedule.  We'll catch back up in the coming weeks.
 
 # Week 4A - CSS Wrapup   (Potential material. To be updated.)
 
