@@ -12,7 +12,7 @@
 - General design principles
 - Global design and accessibility
 
-## Presentations/Demos
+## Presentations/Demos (note that these PDFs and demos may differ somewhat from our in-class experience)
 - [CSS Wrap-up](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/CSS-Wrap-Up.pdf)
 - [CSS Transition Demo](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/3B-Transition-demo-done.zip) 
 - [CRAP and Visual Design](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/4A-CRAP.pdf)
