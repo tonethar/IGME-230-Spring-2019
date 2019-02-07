@@ -61,13 +61,13 @@ Color resources:
 - http://www.georgehutchins.com
 - http://www.dokimos.org/ajff/
 
-## Exercise
-- [Analyzing Websites with CRAP](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-4/Exercise-CRAP.docx)
+## Homework
+- [Analyzing Websites with 'CRAP'](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-4/HW-CRAP.docx)
 
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-05A-notes.md**](week-05A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-06A-notes.md**](week-06A-notes.md)
+| [**week-04A-notes.md**](week-04A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-05A-notes.md**](week-05A-notes.md)
 
 
