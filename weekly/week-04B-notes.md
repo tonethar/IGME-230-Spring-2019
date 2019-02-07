@@ -4,7 +4,7 @@
 ## Topics
 - Navigation
 - CSS Display Property
-- Browser Standards
+- Standards
 - Typography
 - Favicons
 - CSS Animations
