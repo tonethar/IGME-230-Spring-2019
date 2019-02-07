@@ -62,7 +62,7 @@ Color resources:
 - http://www.dokimos.org/ajff/
 
 ## Homework
-- [Analyzing Websites with 'CRAP'](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-4/HW-CRAP.docx)
+- [Analyzing Websites with 'CRAP'](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-4/HW-CRAP.docx) -- Download this Word document.  Complete the first step (posting your critique) within the next 24 hours... Then complete the rest of it by the beginning of next class, putting it into the appropriate Dropbox.  Note: don't use one of the above sites as your "bad" site.
 
 <hr><hr>
 
