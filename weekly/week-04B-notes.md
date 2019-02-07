@@ -31,6 +31,20 @@ You should have had some design in IGME-110 - here are some links to these previ
  - https://www.creativebloq.com/web-design/10-design-concepts-web-developers-need-know-11135255
 
 ## Reference
+Web Font resources:
+- [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
+- https://fonts.google.com
+- https://caniuse.com
+
+CSS animation resources:
+- http://www.w3schools.com/cssref/css3_pr_transition.asp
+- http://www.w3schools.com/css/css3_animations.asp
+- http://www.w3schools.com/cssref/css_animatable.asp
+- http://www.w3schools.com/cssref/tryit.asp?filename=trycss_animatable
+- https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations
+- http://oskargustafsson.github.io/CSS-spinners/#windcatcher
+
+Color resources:
 - https://color.adobe.com
 - https://colourlovers.com
 - http://colorschemedesigner.com/
