@@ -11,6 +11,6 @@ Everyone should gather into groups of 4, and complete the critique exercise link
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-05A-notes.md**](week-06A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-06-notes.md**](week-06-notes.md)
+| [**week-05A-notes.md**](week-05A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-06-notes.md**](week-06-notes.md)
 
 
