@@ -1,5 +1,16 @@
-# Week 5A - The Site Design Process & CSS Flexbox
-Today we'll be discussing the overall process for designing a site, which consists of the following phases:
+# Week 5A - More Design, including The Site Design Process 
+Today, we will:
+- Finish up the last bits of the design lecture from last class including:
+  - General design principles
+  - Global design and accessibility
+- Demonstrate a 'better' navigation menu with dropdowns using only Flexbox/CSS formatting.
+  - Note that we'll hold off on the 2nd CSS Grid + Flexbox layout demo until next class.
+- Go over a few other reminders relating to the class:
+  - Shift-reload.
+  - Validation warnings.  
+  - Markdown.
+  - Prototype expectations.  
+- Finally, we'll be discussing the overall process for designing a site, which consists of the following phases:
 1. Define the purpose
 1. Consider the audience
 1. Gather Ideas
