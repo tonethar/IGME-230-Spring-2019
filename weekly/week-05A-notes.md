@@ -36,7 +36,7 @@ Today, we will:
 ## Exercise
 - [Site Design](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-5/ICE-Site-Design.docx)
 
-## Homework
+## Reading "Homework"
 - http://www.nngroup.com/articles/top-10-mistakes-web-design/
 
 
