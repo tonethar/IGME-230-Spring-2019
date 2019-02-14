@@ -7,6 +7,7 @@
 - If time, Introduction to PHP.
 
 ## Homework:
+- Check your link in the Class List.  (See myCourses content area).  If it doesn't work, you need to fix it (on your end).
 - Begin looking at [PHP materials](week-06-notes.md) in advance.
 - Watch dropboxes carefully.  There will be quite a few PHP drop-boxes.
 
