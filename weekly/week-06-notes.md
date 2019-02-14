@@ -1,5 +1,5 @@
 # Week 6: Introduction to PHP
-- This week we will continue to look at web server scripting, and will cover enough server-side programming (PHP) to make you dangerous :-)
+- This week we will again be looking at web server scripting, and will cover enough server-side programming (PHP) to make you dangerous :-)
 
 ## I. PHP - What is it?
 *PHP originally stood for **Personal Home Page**, but it now stands for the recursive "backronym" **PHP HyperText Preprocessor**. PHP code may be embedded into HTML code, or it can be used in combination with various web template systems, web content management systems, and web frameworks.* -- https://en.wikipedia.org/wiki/PHP
