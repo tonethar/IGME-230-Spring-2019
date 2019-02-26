@@ -56,9 +56,9 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
   
  Later on in the semester we will revisit PHP and use it to create our own customized *web service*.
   
-## <a id="week7">Week 7 : Intro to Client-side Programming
-   
-   - [Week 7 - Introduction to Client-side Programming](weekly/week-07-notes.md)
+## <a id="week7">Week 7 : HTML Frameworks & Intro to Client-side Programming
+    - [Week 7A - Frameworks and Libraries](weekly/week-07A-notes.md)
+   - [Week 7B - Introduction to Client-side Programming](weekly/week-07B-notes.md)
  
 ## <a id="week8">Week 8 : More DOM/JavaScript & Midterm Exam
   
@@ -71,9 +71,9 @@ The midterm exam will given the last class meeting of week 8
   - [Week 9A - Events & JavaScript Object Literals](weekly/week-09A-notes.md)
   - [Week 9B - Arrays, Web Storage & Web Services](weekly/week-09B-notes.md)
   
-## <a id="week10">Week 10 : HTML Frameworks & Portfolios
+## <a id="week10">Week 10 : Portfolios
   
-  - [Week 10A - Frameworks and Libraries](weekly/week-10A-notes.md)
+
   - [Week 10B - Portfolios](weekly/week-10B-notes.md)
   
 ## <a id="week11">Week 11  : Intro to PixiJS
