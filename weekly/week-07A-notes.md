@@ -65,9 +65,11 @@ Implementation:
   - Don't forget you can access Lynda for free from http://infoguides.rit.edu/lynda
 - [Lynda.com Skeleton Tutorial](https://www.lynda.com/CSS-tutorials/Welcome/372808/413142-4.html) - another nice option, with a slightly simpler layout.
 
+## VIII. Discussing Portfolios
+ - If time allows, we'll discuss web Portfolios:  [Lecture Notes](https://github.com/dccircuit/IGME-230-Spring-2019/blob/master/weekly/week-10B-notes.md)
 
-## VII. Assignment
-- [Web Portfolio](../projects/portfolio.md)
+## IX. Assignment
+- [Web Portfolio](../projects/portfolio.md) -- not yet official.
 
 <hr><hr>
 
