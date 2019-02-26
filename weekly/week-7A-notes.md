@@ -47,9 +47,9 @@ Single-page sites are becoming more and more popular, especially in the age of r
 
 Here are some cool examples:
 - https://www.epicgames.com/paragon/
-- https://www.airbnb.com/belong-anywhere
 - http://www.ginventory.co/  
-- http://www.dds.mu/
+- http://tremorworks.com
+- https://www.awwwards.com/websites/single-page/
 
 Implementation:
 - Some sites are simply a single page, nothing more.
