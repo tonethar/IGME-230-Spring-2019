@@ -57,8 +57,9 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
  Later on in the semester we will revisit PHP and use it to create our own customized *web service*.
   
 ## <a id="week7">Week 7 : HTML Frameworks & Intro to Client-side Programming
-    - [Week 7A - Frameworks and Libraries](weekly/week-07A-notes.md)
-   - [Week 7B - Introduction to Client-side Programming](weekly/week-07B-notes.md)
+
+  - [Week 7A - Frameworks and Libraries](weekly/week-07A-notes.md)
+  - [Week 7B - Introduction to Client-side Programming](weekly/week-07B-notes.md)
  
 ## <a id="week8">Week 8 : More DOM/JavaScript & Midterm Exam
   
