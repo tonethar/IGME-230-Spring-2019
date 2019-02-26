@@ -73,5 +73,5 @@ Implementation:
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-06-notes.md**](week-06-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-7B-notes.md**](week-7B-notes.md)
+| [**week-06-notes.md**](week-06-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-07B-notes.md**](week-07B-notes.md)
 
