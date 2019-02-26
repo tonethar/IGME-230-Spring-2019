@@ -7,7 +7,7 @@
 - Code minification
 - Single-page sites
 
-This week, it's back to some Web design! We've talked about responsive design a fair amount, and been focused on hand-building our own pages. But in the real world, more and more developers are coming to rely on various resources of existing code that do a lot of the heavy lifting for them, and streamline the design and development process.
+We've talked about responsive design a fair amount, and been focused on hand-building our own pages. But in the real world, more and more developers are coming to rely on various resources of existing code that do a lot of the heavy lifting for them, and streamline the design and development process.
 
 ## II. Frameworks
 A [CSS framework](https://en.wikipedia.org/wiki/CSS_framework) is a set of CSS that can be applied as a starting point for designing a responsive page or site. The big one right now is Bootstrap, which was originally developed as Twitter's underlying responsive CSS. There are a lot of them out there, though, including:
@@ -32,7 +32,7 @@ You'll note once again that libraries like jQuery provide minified code, which c
 In addition to libraries, there are tons of plugins and other code snippets available on the Web to add functionality quickly. jQuery's site lists a ton of these. Another great example, useful for portfolios, is [Fancybox](http://fancyapps.com/fancybox/3/), a jQuery "lightbox" plugin for adding interactive galleries to your pages.
 
 ## V. Templates
-While we're at it, let's talk about HTML templates (also known as HTML themes). There are a lot of options to choose from, most of which use both a CSS framework and a JS library in addition to their own custom HTML and CSS. Templates are a quick and easy way to take pre-fab pages, populate them with your own content, and have a responsive site up and running in potentially a matter of minutes. Of course, on your assignments you need to build your own pages, not use templates, but they are a great resource for future work! There are a lot of these online, but here are some random examples:
+While we're at it, let's revisit HTML templates (also known as HTML themes). There are a lot of options to choose from, most of which use both a CSS framework and a JS library in addition to their own custom HTML and CSS. Templates are a quick and easy way to take pre-fab pages, populate them with your own content, and have a responsive site up and running in potentially a matter of minutes. Of course, on your Projects you need to build your own pages, not use templates, but they are a great resource for future work! There are a lot of these online, but here are some random examples:
 - [TemplateMo](http://www.templatemo.com/)
 - [tooplate](http://www.tooplate.com/)
 - [Templated](https://templated.co/)
@@ -66,7 +66,7 @@ Implementation:
 - [Lynda.com Skeleton Tutorial](https://www.lynda.com/CSS-tutorials/Welcome/372808/413142-4.html) - another nice option, with a slightly simpler layout.
 
 
-## IX. Assignment
+## VII. Assignment
 - [Web Portfolio](../projects/portfolio.md)
 
 <hr><hr>
