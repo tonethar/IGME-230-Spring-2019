@@ -31,17 +31,14 @@ Below are some example questions - **these are not exhaustive of what can and wi
 1. What are the numeric permissions that are required for web viewable *directories*?
 1. What are the numeric permissions that are required for web viewable *files*?
 
-## C. PHP
-- See review questions for all 4 PHP chapters: [About this PHP Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-0.md)
-
-## D. Intro To Web
+## C. Intro To Web
 1. Describe the 4 *layers* (or *pillars*) of web design.
 1. What language do we use to add *structure* to a web page?
 1. Which layer of web design is responsible for how web pages look?
 1. How can we add *behavior* to a web page?
 
 
-## E. Basic HTML
+## D. Basic HTML
 1. See the [IIM review folder](https://github.com/tonethar/IGME-230-GDD-2017-Fall/tree/master/IIM-Web-Review)
 1. Give examples of HTML *semantic* elements (tags)
 1. Give examples of HTML5 *Structural* elements
@@ -52,7 +49,7 @@ Below are some example questions - **these are not exhaustive of what can and wi
 1. <s>What kind of content are HTML tables appropriate for?</s>
 
 
-## F. Basic CSS
+## E. Basic CSS
 For the exam, be able to write complete CSS rules from memory.
 
 1. What does CSS stand for?
@@ -86,13 +83,13 @@ For the exam, be able to write complete CSS rules from memory.
 1. Be familiar with the [box model and advanced CSS selectors shown here](../weekly/week-03B-notes.md)
 
 
-## G. CSS Rollovers
+## F. CSS Rollovers
 1. Give the 4 CSS `pseudo selectors` that are used to create CSS rollover effects.
 
-## H. Markdown
+## G. Markdown
 1. Know the basic Markdown syntax (headings, lists, etc)
 
-## I. Web Publishing
+## H. Web Publishing
 1. When to use *serif*, *sans-serif*, and *decorative* fonts
 1. What image file format(s) should generally be used for photographs?
 1. What image file format(s) should generally be used for web graphics such as logos and banners?
@@ -104,8 +101,11 @@ For the exam, be able to write complete CSS rules from memory.
 1. What is the `name` of the &lt;meta> tag you will need to add to all of your responsive (and mobile friendly) web pages?
 1. What properties of the browser does a media query commonly "test" for?
 
-## J. Website Design Process
+## I. Website Design Process
 1. See Week 5 & Week 6 Notes
+
+## J. PHP
+- See review questions for all 4 PHP chapters: [About this PHP Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-0.md)
 
 ## K. Introduction to Web Applications
 For the midterm exam, you will be responsible for the first 5 parts of this web apps series:
