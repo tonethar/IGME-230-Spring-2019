@@ -62,6 +62,7 @@ For the exam, be able to write complete CSS rules from memory.
 1. What does `display:inline` do?
 1. What does `display:inline-block` do?
 1. What does `display:flex` do?
+1. What does `display:grid` do?
 1. what does `float:left` do?
 1. Define `inline`, `internal`, and `external` style sheets.
 1. If these 3 types of styles conflict, which one usually "wins"?
@@ -102,7 +103,7 @@ For the exam, be able to write complete CSS rules from memory.
 1. What properties of the browser does a media query commonly "test" for?
 
 ## I. Website Design Process
-1. See Week 5 & Week 6 Notes
+1. See [Week 5 Notes](https://github.com/dccircuit/IGME-230-Spring-2019/blob/master/weekly/week-05A-notes.md)
 
 ## J. PHP
 - See review questions for all 4 PHP chapters: [About this PHP Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-0.md)
