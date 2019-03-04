@@ -75,7 +75,7 @@ Past Student Portfolios:
 - http://brianemling.com/
 - http://dougwatro.com
 - http://barringtoncampbell.com/
-- https://people.rit.edu/mxb9517/portfolio/
+- https://people.rit.edu/mxb9517/portfolio/ (new version is here --> http://matthewmbarry.com)
 - https://people.rit.edu/mac9406/portfolio/
 - https://people.rit.edu/ctb4332/portfolio/
 - https://people.rit.edu/sxf5282/portfolio/
